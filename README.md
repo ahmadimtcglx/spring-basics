@@ -18,6 +18,7 @@ there are 2 types of container-
 2.Application Contex  : Advance version -mostly we use this. to implenent this we use 
 "classPathXmlApplicationContex" class.
 
+
 config file - we write its name to classPathXmlApplicationContex class. which containes class name of which 
 	we want to create object.
       In my code "beans.xml" is config file.
